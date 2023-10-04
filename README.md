@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Javich23
 - 👀 I’m interested in learning Software Development and Cloud Computing
-- 🌱 I’m currently learning to build fullstac React applications!
+- 🌱 I’m currently learning to build Fullstack React applications!
 - 📫 How to reach me www.linkedin.com/in/cjavicha
 
 
